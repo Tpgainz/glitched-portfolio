@@ -42,6 +42,12 @@ const projects: Project[] = [
     link: "https://pizza-regal.vercel.app/",
     github: "",
   },
+  {
+    name: "Wati Bot",
+    description: "An overlay of chatgpt",
+    link: "https://watibot.netlify.app/",
+    github: "",
+  },
 ];
 
 const ProjectsPage: NextPage = () => {
