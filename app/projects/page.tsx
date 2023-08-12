@@ -15,7 +15,7 @@ const projects: Project[] = [
   {
     name: "Winners Home",
     description: "A website for a local business",
-    link: "https://winnershome.ca",
+    link: "https://winners-home.vercel.app/",
     github: "hello",
   },
    {
