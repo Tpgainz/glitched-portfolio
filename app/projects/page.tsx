@@ -56,7 +56,7 @@ const projects: Project[] = [
   },
   {
     name: "Dofus Retro",
-    description: "A minimalist ts clone of the game Dofus Retro which will be used as the final portfolio \n in construction",
+    description: "A minimalist ts clone of the game Dofus will be used as the portfolio \n in construction",
     link: "dofus129like.vercel.app",
     github: "",
   },
