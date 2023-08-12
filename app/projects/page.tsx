@@ -18,22 +18,10 @@ const projects: Project[] = [
     link: "https://winnershome.ca",
     github: "hello",
   },
-  {
-    name: "Glitched portfolio",
-    description: "A next.js portfolio inspired by Gusbell's",
-    link: "https://tpgainz.vercel.app",
-    github: "",
-  },
-  {
-    name: "Madero",
-    description: "A website for a local business",
-    link: "https://madero.fr",
-    github: "",
-  },
-  {
-    name: "Dofus Retro",
-    description: "A minimalist ts clone of the game Dofus Retro",
-    link: "dofus129like.vercel.app",
+   {
+    name: "Wati Bot",
+    description: "An overlay of chatgpt",
+    link: "https://watibot.netlify.app/",
     github: "",
   },
   {
@@ -43,9 +31,21 @@ const projects: Project[] = [
     github: "",
   },
   {
-    name: "Wati Bot",
-    description: "An overlay of chatgpt",
-    link: "https://watibot.netlify.app/",
+    name: "Madero",
+    description: "A website for a local business",
+    link: "https://madero.fr",
+    github: "",
+  },
+  {
+    name: "Glitched portfolio",
+    description: "A next.js portfolio inspired by Gusbell's",
+    link: "https://tpgainz.vercel.app",
+    github: "",
+  },
+  {
+    name: "Dofus Retro",
+    description: "A minimalist ts clone of the game Dofus Retro",
+    link: "dofus129like.vercel.app",
     github: "",
   },
 ];
