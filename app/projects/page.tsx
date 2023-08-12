@@ -36,6 +36,18 @@ const projects: Project[] = [
     link: "https://madero.fr",
     github: "",
   },
+    {
+    name: "PrankPhone",
+    description: "A phone prank webapp",
+    link: "",
+    github: "",
+  },
+   {
+    name: "Tsara-vanilla",
+    description: "An e-commerce website to sell vanilla",
+    link: "",
+    github: "",
+  },
   {
     name: "Glitched portfolio",
     description: "A next.js portfolio inspired by Gusbell's",
