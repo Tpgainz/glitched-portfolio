@@ -38,13 +38,13 @@ const projects: Project[] = [
   },
     {
     name: "PrankPhone",
-    description: "A phone prank webapp",
+    description: "A phone prank webapp \n in construction",
     link: "",
     github: "",
   },
    {
     name: "Tsara-vanilla",
-    description: "An e-commerce website to sell vanilla",
+    description: "An e-commerce website to sell vanilla \n in construction",
     link: "",
     github: "",
   },
@@ -56,7 +56,7 @@ const projects: Project[] = [
   },
   {
     name: "Dofus Retro",
-    description: "A minimalist ts clone of the game Dofus Retro",
+    description: "A minimalist ts clone of the game Dofus Retro which will be used as the final portfolio \n in construction",
     link: "dofus129like.vercel.app",
     github: "",
   },
