@@ -47,6 +47,12 @@ const projects: Project[] = [
     description: "An e-commerce website to sell vanilla in construction",
     link: "",
     github: "",
+  }, 
+   {
+    name: "Undercover",
+    description: "Undercover is an atmospheric game that plays on words.",  
+    link: "https://undercover-drab.vercel.app/",
+    github: "",
   },
   {
     name: "Glitched portfolio",
